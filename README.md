@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://github.com/rokibulislam101">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulislam101&show_icons=true&locale=en&theme=react&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulislampro&show_icons=true&locale=en&theme=react&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF" width="45%" />
   </a>
   <a href="https://github.com/rokibulislam101">
     <img src="https://github-readme-stats.vercel.app/api?username=rokibulislampro&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF&icon_color=FF1CF7" width="50%" />
