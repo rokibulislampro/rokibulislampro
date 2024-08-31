@@ -47,7 +47,7 @@
   <img src="https://streak-stats.demolab.com?user=rokibulislam101&theme=tokyonight&mode=weekly&type=png"/>
 </div> -->
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rokibulislam101&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&sideNums=00F0FF" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rokibulislampro&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&sideNums=00F0FF" />
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulislam101&show_icons=true&locale=en&theme=react&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF" width="45%" />
   </a>
   <a href="https://github.com/rokibulislam101">
-    <img src="https://github-readme-stats.vercel.app/api?username=rokibulislam101&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF&icon_color=FF1CF7" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rokibulislampro&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF&icon_color=FF1CF7" width="50%" />
   </a>
 </p>
 
