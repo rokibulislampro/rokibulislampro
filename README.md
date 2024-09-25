@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm MD Rokibul Islam</h1>
-<p align="center">I am a FullStack Developer specializing in MERN-Stack technology, dedicated to bringing modern web solutions to life. With a keen eye for detail and a passion for innovation, I ensure every project seamlessly blends form and function. I am eager to contribute my creative skills to drive company growth. Explore my GitHub and connect with me to discover how I can add value to your team.</p>
+<p align="center">I am a Full-Stack Developer specializing in MERN-Stack technology, dedicated to bringing modern web solutions to life. With a keen eye for detail and a passion for innovation, I ensure every project seamlessly blends form and function. I am eager to contribute my creative skills to drive company growth. Explore my GitHub and connect with me to discover how I can add value to your team.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibulislam101&label=Profile%20views&color=0e75b6&style=flat" alt="rokibulislam101" /> </p>
 
