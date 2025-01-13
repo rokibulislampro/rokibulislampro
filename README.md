@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm MD Rokibul Islam</h1>
 <p align="center">I am a Full-Stack Developer specializing in MERN-Stack technology, dedicated to bringing modern web solutions to life. With a keen eye for detail and a passion for innovation, I ensure every project seamlessly blends form and function. I am eager to contribute my creative skills to drive company growth. Explore my GitHub and connect with me to discover how I can add value to your team.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibulislam101&label=Profile%20views&color=0e75b6&style=flat" alt="rokibulislam101" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokibulislam101&label=Profile%20views&color=0e75b6&style=flat" alt="rokibulislampro" /> </p>
 
 
 - 🌱 I’m currently exploring **Advanced motion 3d graphics for the web.**
@@ -19,7 +19,7 @@
 <h3 align="left">📫 Reach me out</h3>
 <p align="left">
 <a href="https://codepen.io/rokibul-islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rokibul-islam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rokibulislam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rokibulislam01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rokibulislampro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rokibulislampro" height="30" width="40" /></a>
 <a href="https://fb.com/rokibulislampro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rokibulislampro" height="30" width="40" /></a>
 </p>
 
@@ -51,10 +51,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rokibulislam101">
+  <a href="https://github.com/rokibulislampro">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rokibulislampro&show_icons=true&locale=en&theme=react&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF" width="45%" />
   </a>
-  <a href="https://github.com/rokibulislam101">
+  <a href="https://github.com/rokibulislampro">
     <img src="https://github-readme-stats.vercel.app/api?username=rokibulislampro&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117&title_color=FF1CF7&text_color=00F0FF&icon_color=FF1CF7" width="50%" />
   </a>
 </p>
